@@ -1,2 +1,5 @@
-# sklearn-clustering-animations
-Creating GIFs to demonstrate how clustering algorithms work
+<div align="center">
+  <h1>Animating Clustering Algorithms from sklearn</h1>
+  <img src="af_clustering.gif" width="70%" alt="result.gif">
+  <img src="ms_clustering.gif" width="70%" alt="result.gif">
+</div>
